@@ -1,17 +1,22 @@
 # Money-Bill-Classification
 Final Project - Electrical Engineering - Tel Aviv University
-
+<div class='demo'>
+ <a href="https://youtu.be/NaQBIpFaf9E">Demonstration.</a>
+</div>
 <div class='Introduction'>
   
   <h1>
     Introduction
- 	</h1>
- 	<p>
+  </h1>
+ 
+  
+  <p>
 		In our final project we focused on the fields of image processing, machine learning and deep learning.<br>
     We tried to help other with the knowledge we acquired during our studies.<br>
     C-BILL is a wearable device that enables visually impaired to be aware of the type of bill he/she is holding.
   </p>
   <img src = "images/model.JPG">
+  <img src = "images/on_me.JPG" width="300">
 </div>
 
 
