@@ -1,7 +1,9 @@
 # Money-Bill-Classification
 Final Project - Electrical Engineering - Tel Aviv University
 <div class='demo'>
- <a href="https://youtu.be/NaQBIpFaf9E">Demonstration.</a>
+
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/NaQBIpFaf9E/0.jpg)](https://www.youtube.com/watch?v=NaQBIpFaf9E)
 </div>
 <div class='Introduction'>
   
