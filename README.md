@@ -3,7 +3,7 @@ Final Project - Electrical Engineering - Tel Aviv University
 <div class='demo'>
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/NaQBIpFaf9E/0.jpg)](https://www.youtube.com/watch?v=NaQBIpFaf9E)
+[![Everything Is AWESOME](images/youtube.png)](https://www.youtube.com/watch?v=NaQBIpFaf9E)
 </div>
 <div class='Introduction'>
   
