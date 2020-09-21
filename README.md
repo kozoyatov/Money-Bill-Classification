@@ -65,7 +65,7 @@ Final Project - Electrical Engineering - Tel Aviv University
   
   <table style="width:30%">
   <tr>
-    <th>Tesrt Set</th>
+    <th>Test Set</th>
     <th >Real Time</th>
   </tr>
   <tr>
